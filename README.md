@@ -13,14 +13,10 @@ Astros is a template made with [Astro](https://astro.build), [Tailwind](https://
 This project is strongly inspired by [Astroship](https://github.com/surjithctly/astroship), [Flowbite](https://flowbite.com/blocks/) and [Tailwind UI](https://tailwindui.com/components) components, make sure to check them out as well!
 
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/zankhq/astros)
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zankhq/astros)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/zankhq/astros)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tuananhqn87/astros)
 
 
-### [🧪 Site preview →](https://astros.zank.studio)
+### [🧪 Site preview →](https://astro-demo.cloudedge.vn/)
 
 ### [🧑‍🚀 Astro website →](https://astro.build/)
 
@@ -58,13 +54,6 @@ You can leave build settings as defaults.
 
 </details>
 
-### Netlify
-
-`TODO`
-
-### Vercel
-
-`TODO`
 
 ### Others
 
@@ -82,7 +71,7 @@ You can check the deploy documentation at https://docs.astro.build/en/guides/dep
 
 ## ✍️ Admin dashboard
 
-You can access the admin dashboard for editing blog post at `/admin` (https://astros.zank.studio/admin)
+You can access the admin dashboard for editing blog post at `https://your-domain/admin`
 
 For more information follow Decap CMS documentation at https://decapcms.org/docs/
 
