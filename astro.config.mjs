@@ -27,7 +27,7 @@ export default defineConfig({
 					repo: "tuananhqn87/astros",
 					branch: "main",
 					base_url: "https://astro-demo.cloudedge.vn",
-					auth_endpoint: "functions/api/auth",
+					auth_endpoint: "/api/auth",
 				},
 				media_folder: "public/images",
 				public_folder: "/images",
